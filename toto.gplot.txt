@@ -1,0 +1,2 @@
+set datafile separator ';'
+plot "totototo.txt" using 1:2 with lines,x**2
